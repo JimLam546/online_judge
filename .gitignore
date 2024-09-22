@@ -23,6 +23,7 @@ HELP.md
 /nbproject/private/
 /nbbuild/
 /oj-frontend/dist/
+/node_modules
 /nbdist/
 /.nb-gradle/
 build/
